@@ -1,0 +1,17 @@
+tr{
+    color: black;
+}
+.general{
+    background: yellow;
+    width: 1000px;
+    align-items: center;
+    margin-top: 200px;
+}
+/* body{
+    background-image: url(https://maurateaches.com/wp-content/uploads/2021/03/Google-Classroom-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+table{
+    border-radius: 8px;
+}
